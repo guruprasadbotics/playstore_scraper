@@ -5,7 +5,7 @@ You can scrape and download data from your competitors and find out where they a
 
 How to use?
 
-1) Open in your Collab
+1) Open in your Google Collab
 2) Replace the file_name with your actual file name
 3) replace the drive location to df_busu.to_csv('/content/drive/My Drive/file_name.csv') # path to save your exported csv file
 
